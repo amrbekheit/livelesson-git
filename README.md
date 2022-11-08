@@ -31,4 +31,5 @@ rebase commit 1
 rebase commit 2
 
 rebase squash main 1
+rebase squash main 2
 
