@@ -27,3 +27,4 @@ branch commmit 2
 main2 commit 1
 main2 commit 2
 rebase commit 1
+rebase commit 2
