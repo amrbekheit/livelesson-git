@@ -2,37 +2,4 @@
 #Git wrok on Remote
 
 
-- test 
--test
-Adding changes to second commit 22
-
-adding Diff to show the output of the comand "git diff"
-
-adding that line from the GitHub to test the pull command
-
-Adding line for first_branch  -  main 2 commit 3 -
-Adding line for rebase branch  -rebase branch commit 3-  main-squash
-Adding line for rebase branch  -rebase branch commit 3-   squash 3
-
-Line for commit on Main while i have a nother commit in the branch_change
-
-Line for Merge barch even the main was alos comeited with different version
-
-add the line in MAIN while we add in the rebase branch
-
-main commit 1
-main commit 2
-
-branch commmit 1
-branch commmit 2
-
-main2 commit 1
-main2 commit 2
-rebase commit 1
-rebase commit 2
-
-rebase squash main 1
-rebase squash main 2
-
-rebase squash 1
-rebase squash 2
+New Line 1
