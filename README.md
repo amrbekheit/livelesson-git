@@ -10,3 +10,5 @@ adding feature line
 Addning line from the main
 
 Adding line after stash
+
+Testing the merge on the remote
