@@ -20,3 +20,5 @@ Line for Merge conflict, Line for PR conflict
 Line for final
 
 Owner Feature
+
+New rule for branch main 
